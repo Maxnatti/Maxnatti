@@ -7,7 +7,7 @@
 - ⚡ Fun fact: เว็บไซต์สล๊อต ออนไลน์ฉันฉันเจอมีแต่เว็บปลอมทั่งนั้นน..
 
 <!---
-Maxnatti/Maxnatti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+pungver.io/ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
